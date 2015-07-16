@@ -17,4 +17,4 @@
 /**
  * Fields
  */
-$GLOBALS['TL_LANG']['avisota_message']['viewOnline'] = '<a href="%s">Newsletter online ansehen</a>';
+$GLOBALS['TL_LANG']['avisota_message']['viewOnline'] = '<a href="%s">view newsletter online</a>';
